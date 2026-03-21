@@ -1,0 +1,45 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using node tooling)
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS specific
+ehthumbs.db
+Desktop.ini
+
+# Optional: browser cache / stuff
+.cache/
+
+# MacOS
+._*
+
+# Windows
+*.cab
+*.msi
+*.msm
+*.msp
