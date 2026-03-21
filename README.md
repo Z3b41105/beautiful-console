@@ -1,8 +1,10 @@
 # Beautiful Console
 
-Beautiful Console is a browser-based terminal interface made with HTML, JavaScript, and Tailwind CSS.
+Beautiful Console is a browser-based terminal interface built 100% with vibe coding using HTML, JavaScript, and Tailwind CSS.
 
-It lets you:
+This project was created as an experimental and learning-based build, focusing on fast iteration, visual polish, and practical functionality.
+
+### **It lets you:**
 - type and run commands
 - load and execute JavaScript files
 - drag and drop a file to execute it
@@ -48,3 +50,4 @@ help
 clear
 run test
 echo hello world
+```
