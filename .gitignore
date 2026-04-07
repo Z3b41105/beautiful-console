@@ -35,6 +35,9 @@ Desktop.ini
 # Optional: browser cache / stuff
 .cache/
 
+# Public scripts to ignore
+public/scripts/
+
 # MacOS
 ._*
 
